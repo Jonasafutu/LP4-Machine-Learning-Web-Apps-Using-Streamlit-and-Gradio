@@ -8,7 +8,7 @@ To get the most value out of machine learning models, it is important to seamles
 2. Deploying Machine Learning models to Streamlit App for real-time prediction.
 3. Deploying Machine Learning models to Gradio App for real-time prediction.
 
- ![image](https://github.com/Jonasafutu/LP4-Machine-Learning-Web-Apps-Using-Streamlit-and-Gradio/assets/51377218/95cd8a90-1eb5-4e10-a122-c2e970a38985)
+![image](https://github.com/Jonasafutu/LP4-Machine-Learning-Web-Apps-Using-Streamlit-and-Gradio/assets/51377218/07cf3980-9387-4e21-801a-9f42ce7551bd)
 
 
 # STREAMLIT
