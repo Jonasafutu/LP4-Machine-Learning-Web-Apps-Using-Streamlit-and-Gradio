@@ -4,6 +4,6 @@ Model deployment forms part of the CRISP-DM framework and its importance cannot 
 To get the most value out of machine learning models, it is important to seamlessly deploy them into production so a business can start using them to make practical decisions.
 
 ### Objectives of this project
-Building customizable Graphic User Interface components with Streamlit and Gradio.
-Deploying Machine Learning models to Streamlit App for real-time prediction.
-Deploying Machine Learning models to Gradio App for real-time prediction.
+1. Building customizable Graphic User Interface components with Streamlit and Gradio.
+2. Deploying Machine Learning models to Streamlit App for real-time prediction.
+3. Deploying Machine Learning models to Gradio App for real-time prediction.
