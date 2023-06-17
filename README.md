@@ -184,5 +184,5 @@ Oh, one more thing, please do not forget to put a description when you make your
 
 ## Author
 
-- Jonas AFUTU.(https://www.linkedin.com/in/jonas-afutu/)
+- Jonas AFUTU.(https://www.linkedin.com/in/esa%C3%AFe-alain/in/jonas-afutu/)
 [![My Twitter Link](https://twitter.com/nikoifirewall)
