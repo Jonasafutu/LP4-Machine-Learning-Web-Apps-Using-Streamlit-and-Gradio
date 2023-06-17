@@ -89,83 +89,6 @@ The both long command-lines have a same structure, they pipe multiple commands u
 3. **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
 4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
-**NB:** For MacOs users, please install `Xcode` if you have an issue.
-
-- Run the demo apps (being at the repository root):
-        
-  Gradio:
-    
-    - Demo
-
-          python gradio_project/basic_demo/app.py
-
-    - Salary prediction
-
-          python gradio_project/salary/app.py
-
-    - Titanic survival prediction
-
-          python gradio_project/titanic/app.py   
-
-
-  - Go to your browser at the following address :
-        
-      http://127.0.0.1:7860/
-
-
-  Streamlit: 
-
-      streamlit run streamlit_project/basic_demo/app.py
-
-  - Go to your browser at the following address :
-        
-      http://localhost:8501
-
-<!-- ## Structure
-### File: app.py
-
-### Folder: ml 
-
-C:.
-├───.pytest_cache
-│   └───v
-│       └───cache
-├───gradio_project
-│   ├───salary 
-│   └───titanic
-├───ml
-│   ├───salary
-│   └───titanic
-├───streamlit_project
-└───tests
-    ├───gradio_project
-    ├───ml
-    └───streamlit_project
-
-
--->
-
-## Screenshots
-
-<table>
-    <tr>
-        <th>Gradio Salary Prediction</th>
-        <th>Gradio Titanic Survival Prediction</th>
-    </tr>
-    <tr>
-        <td><img src="./screenshots/gr_salary_app_interface.png"/></td>
-        <td><img src="./screenshots/gr_titanic_app_interface.png"/></td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Streamlit Basic Demo</th>
-    </tr>
-    <tr>
-        <td><img src="./screenshots/st_basic_demo_app_interface.png"/></td>
-    </tr>
-</table>
 
 ## Resources
 Here are some ressources you would read to have a good understanding of Gradio and Streamlit :
@@ -176,13 +99,7 @@ Here are some ressources you would read to have a good understanding of Gradio a
 
 
 
-## Contributing
-
-Feel free to make a PR or report an issue 😃.
-
-Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
 
 ## Author
 
-- Jonas AFUTU.(https://www.linkedin.com/in/esa%C3%AFe-alain/in/jonas-afutu/)
-[![My Twitter Link](https://twitter.com/nikoifirewall)
+- Jonas AFUTU
