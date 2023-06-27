@@ -107,4 +107,4 @@ Here are some ressources you would read to have a good understanding of Gradio a
 
 ## Author
 
-- Jonas AFUTU
+- .[Jonas AFUTU](https://www.linkedin.com/in/jonas-afutu/)
